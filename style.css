@@ -20,12 +20,6 @@
 }
 
 /* BLOCCO STEPS */
-#steps .row>.left,
-#steps .row>.central,
-#steps .row>.right {
-  float: left;
-  width: 33%;
-}
 
 #steps {
   text-align: center;
@@ -66,14 +60,4 @@ img {
 
 .clear {
   clear: both;
-}
-
-
-
-
-@media screen and (max-width:768px) {
-
-  .width-100 {
-    width: 100%;
-  }
 }
